@@ -18,7 +18,7 @@
 #### [V4W-Patcher-CHS-master.zip](https://github.com/BecodReyes/V4W-Patcher-CHS/archive/master.zip)
 
 ### Instructions:
-* 确保正常安装了 ViPER4Windows
+* 确保 ViPER4Windows 已安装
 * 下载 V4W-Patcher-CHS-master.zip
 * 将 V4W-Patcher-CHS.bat从V4W-Patcher-CHS-master.zip解压出来
 * 运行V4W-Patcher-CHS.bat，按照提示进行 😉
